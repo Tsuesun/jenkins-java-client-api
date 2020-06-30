@@ -61,7 +61,7 @@
     <guava.version>17.0</guava.version>
     <json-lib.version>2.4</json-lib.version>
     <httpclient.version>4.3.6</httpclient.version>
-    <jackson-databind.version>2.3.4</jackson-databind.version>
+    <jackson-databind.version>2.11.1</jackson-databind.version>
   </properties>
 
   <licenses>
